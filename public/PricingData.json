@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": "$20/month",
+    "features": [
+      "Access to gym equipment",
+      "Locker room access",
+      "1 personal training session/month",
+      "Free drinking water",
+      "Open gym hours only",
+      "Basic cardio training",
+      "Access to fitness app",
+      "Weekly progress tracking"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": "$40/month",
+    "features": [
+      "All Basic Plan features",
+      "Unlimited group classes (Yoga, Zumba, HIIT)",
+      "Sauna & steam room access",
+      "2 personal training sessions/month",
+      "Nutrition consultation once a month",
+      "Free body composition analysis",
+      "Extended gym hours (6 AM - 11 PM)",
+      "Discount on gym merchandise"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Premium Plan",
+    "price": "$60/month",
+    "features": [
+      "All Standard Plan features",
+      "Unlimited personal training",
+      "Advanced fitness tracking",
+      "Priority equipment booking",
+      "Special diet & workout plan",
+      "24/7 gym access",
+      "Private locker & shower",
+      "Exclusive access to VIP lounge",
+      "Free sports drinks & protein shakes"
+    ]
+  }
+]
+
