@@ -4,6 +4,7 @@ import './App.css'
 import Daiusy from './component/daiusy.nav/daiusy'
 import NavBar from './component/NavBar/NavBar'
 import PricingOption from './component/PricingOption/PricingOption'
+import ResultCarts from './component/ResultCarts/ResultCarts'
 
 const pricingPromise = fetch('PricingData.json').then(res => res.json())
 
@@ -23,6 +24,9 @@ function App() {
         <Suspense fallback={<span className="loading loading-spinner text-primary"></span>}>
           <PricingOption pricingPromise={pricingPromise}></PricingOption>
         </Suspense>
+
+
+        <ResultCarts></ResultCarts>
       </main>
 
     </>
