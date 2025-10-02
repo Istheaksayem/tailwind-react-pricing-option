@@ -11,7 +11,7 @@ function App() {
 
    <header>
     <NavBar></NavBar>
-       <Daiusy></Daiusy>
+       {/* <Daiusy></Daiusy> */}
 
    </header>
     
